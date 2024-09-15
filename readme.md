@@ -30,4 +30,4 @@ The notebook includes several examples that demonstrate the effectiveness of dif
 Contributions to this project are welcome. If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](#MITLicense).
